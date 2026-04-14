@@ -8,11 +8,6 @@ build/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data (too large for git)
-data/
-*.hdf5
-*.h5
-*.csv
 
 # Environment
 .env
