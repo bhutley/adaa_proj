@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (too large for git)
+data/
+*.hdf5
+*.h5
+*.csv
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# pytest
+.pytest_cache/
